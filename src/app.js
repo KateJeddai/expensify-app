@@ -11,7 +11,7 @@ import "./Styles/styles.scss";
 import 'react-dates/lib/css/_datepicker.css'; 
 
 const store = configureStore();
-
+console.log('testing');
 //const state = store.getState();
 //const visibleExpenses = getVisibleExpenses(state.expenses, state.filters);
 
