@@ -10,7 +10,6 @@ export const Header = ({ startLogout }) => (
       <p></p>
       <NavLink to="/create" activeClassName="is-active">Create Page</NavLink>
       <p></p>
-      <NavLink to="/edit" activeClassName="is-active">Edit Page</NavLink>
       <button onClick={startLogout}>Logout</button>
     </header>
 );

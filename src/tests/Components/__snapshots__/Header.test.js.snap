@@ -21,13 +21,6 @@ exports[`should render header 1`] = `
     Create Page
   </NavLink>
   <p />
-  <NavLink
-    activeClassName="is-active"
-    ariaCurrent="true"
-    to="/edit"
-  >
-    Edit Page
-  </NavLink>
   <button
     onClick={[Function]}
   >
